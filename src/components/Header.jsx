@@ -41,7 +41,7 @@ class Header extends React.Component {
             </button>
             <Link className="navbar-brand" to="/">
               <img
-                src="/assets/images/elements/redash-logo.svg"
+                src="/assets/images/logo_tkj.png"
                 className="navbar-brand__img"
                 alt=""
               />
@@ -113,7 +113,7 @@ class Header extends React.Component {
             </ul>
 
             <ul className="nav navbar-nav navbar-right">
-              <li>
+              {/* <li>
                 <Link
                   data-track
                   data-track-location="header"
@@ -121,7 +121,7 @@ class Header extends React.Component {
                 >
                   Login
                 </Link>
-              </li>
+              </li> */}
               <li>
                 <Link
                   data-track

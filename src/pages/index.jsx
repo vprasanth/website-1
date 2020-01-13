@@ -36,7 +36,7 @@ class Homepage extends React.Component {
             <div className="row">
               <div className="col-md-5">
                 <h1 className="mb-xs">
-                  Redash helps you make sense of your data
+                  KidGenius helps you manage your daycare
                 </h1>
                 <h3 className="font-light">
                   Connect and query your data sources, build dashboards to
